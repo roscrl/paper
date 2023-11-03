@@ -2,6 +2,7 @@
   "name": "Paper",
   "author": "roscrl",
   "dark": false,
+  "editorScheme": "/Paper.xml",
   "colors": {
     "beige": "#F2EEDE",
     "black": "#000000",
