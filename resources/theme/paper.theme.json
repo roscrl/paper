@@ -6,11 +6,9 @@
   "colors": {
     "beige": "#F2EEDE",
     "black": "#000000",
-    "gray": "#ACB3C1",
-    "darkgray": "#747683",
-    "yellow": "#f2eedf",
     "white": "#FFFFFF",
-    "red": "#DC322F"
+    "gray": "#ACB3C1",
+    "darkgray": "#747683"
   },
   "ui": {
     "*": {
@@ -34,6 +32,7 @@
       "underlineColor": "gray",
       "underlineHeight": 2
     },
+    "Tree.rowHeight": 22,
     "ToolWindow": {
       "Header": {
         "inactiveBackground": "beige"
