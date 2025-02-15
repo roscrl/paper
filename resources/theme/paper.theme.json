@@ -1,0 +1,46 @@
+{
+  "name": "Paper",
+  "author": "roscrl",
+  "dark": false,
+  "editorScheme": "/Paper.xml",
+  "colors": {
+    "beige": "#F2EEDE",
+    "black": "#000000",
+    "white": "#FFFFFF",
+    "gray": "#ACB3C1",
+    "darkgray": "#747683"
+  },
+  "ui": {
+    "*": {
+      "background": "beige"
+    },
+    "Button": {
+      "default": {
+        "startBackground": "black",
+        "endBackground": "black",
+        "startBorderColor": "black",
+        "endBorderColor": "black",
+        "focusedBorderColor": "#f6ede4"
+      },
+      "startBackground": "white",
+      "endBackground": "white",
+      "startBorderColor": "#cec5bd",
+      "endBorderColor": "#cec5bd"
+    },
+    "EditorTabs": {
+      "underlinedTabBackground": "beige",
+      "underlineColor": "gray",
+      "underlineHeight": 2
+    },
+    "Tree.rowHeight": 22,
+    "ToolWindow": {
+      "Header": {
+        "inactiveBackground": "beige"
+      }
+    },
+    "RunWidget": {
+      "runIconColor": "darkgray",
+      "iconColor": "darkgray"
+    }
+  }
+}
